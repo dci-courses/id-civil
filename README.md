@@ -1,13 +1,11 @@
 # Procesamiento de Texto Automático
 
-### Requisitos
+### Requisitos
 
 - [Anaconda](https://www.anaconda.com/download)
 - [jupyter](https://jupyter.org/)
 
 ### Código
-
-
 
 ```bash
 ID-CIVIL/
