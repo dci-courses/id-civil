@@ -74,7 +74,7 @@ coverage.xml
 test-results/
 
 # Data files
-*.csv
+#*.csv
 
 *.xlsx
 *.db
